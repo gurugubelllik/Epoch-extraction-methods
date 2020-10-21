@@ -1,11 +1,9 @@
-# CSSP_Results
+# Epeoch_Extraction_Results
 
-Created for supporting the manuscript submitted to CSSP letters.
+Created for supporting the manuscript submitted to ICASSP-2021.
 
 This repository have the state-of-the-art epoch extraction algorithms.
 
 Some of the algorithms are taken from covarep toolbox (git@github.com:covarep/covarep.git)
 
-To reproduce the results submitted to the CSSP letters titled "Towards Improving the Performance of Epoch extraction From Telephonic Speech", use the matlab script Results_Epoch_extraction.m
-
-Contact: Krishna Gurugubellli (krishna.gurugubelli@research.iiit.ac.in)
+Contact: Krishna Gurugubellli (krishna.gurugubelli@research.iiit.ac.in), and Purva sharma (purva.sharma@research.iiit.ac.in)
